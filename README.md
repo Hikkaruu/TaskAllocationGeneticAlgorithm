@@ -27,16 +27,16 @@ A Java program implementing a genetic algorithm to solve the task scheduling pro
     - **The first line** specifies the number of processors (3) and the number of tasks (7).
     - **The second line** contains the execution times of each task. In this case, the execution times are 19, 35, 74, 91, 11, 69, and 43.
     
-7. ## How to Run
+## How to Run
 
 1. Compile the program using the `javac Main.java` command.
 2. Run the program using the `java Main` command.
 
-7. ## Genetic Algorithm Parameters
+## Genetic Algorithm Parameters
 
 In the `Main.java` file, you can customize genetic algorithm parameters such as the crossover chance (`crossoverChance`), mutation chance (`mutationChance`), and the number of evaluations (`evaluations`).
 
-8. ## Sample Results
+## Sample Results
 
 After the program finishes, the final results will be saved in the `result.txt` file.
 
